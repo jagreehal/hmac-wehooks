@@ -2,8 +2,6 @@
 
 This repository contains examples of generating and verifying HMAC signatures to secure webhooks.
 
-It uses [Vitest](https://vitest.dev/) for testing and [Supertest](https://github.com/visionmedia/supertest) to simulate HTTP requests.
-
 ```mermaid
 sequenceDiagram
     participant Client
@@ -18,6 +16,8 @@ sequenceDiagram
 
 
 ```
+
+It uses [Vitest](https://vitest.dev/) for testing and [Supertest](https://github.com/visionmedia/supertest) to simulate HTTP requests.
 
 ## Getting Started
 
